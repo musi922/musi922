@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Richard Musime
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently using JavaScript, React.js, Express, MongoDB, and Node.js
 - 💞️ I’m looking to collaborate on any Web Based Software
-- 📫 How to reach me: +(250) 799-340-499 or email me at richardmusime6@gmail.com
 - Tools I Use:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
