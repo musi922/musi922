@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Richard Musime
 - 👀 I’m a Software Engineer
-- 💞️ I’m looking to collaborate on any Web Based Software
-- 📫 How to reach me +(250)785-816-971 and on iamnsengi@icloud.com
+- 💞️ I love building robust and scalable web applications using the latest technologies and best practices. My primary focus is on creating efficient and user-friendly experiences that meet the needs 
+      of clients and users alike.
+      If you have any exciting projects or collaborations in mind, feel free to reach out! You can connect with me via my social networks platforms.
+      Let's build amazing things together! 
+- 📫 How to reach me: +(250) 799-340-499 or email me at richardmusime6@gmail.com.
+
   
 <img src="https://komarev.com/ghpvc/?username=Richard&style=flat-square&color=blue" alt=""/>
