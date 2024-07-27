@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard Musime
+- 👋 Hi, I’m @Richard Musime
 - 👀 I’m a Software Engineer
 
 
