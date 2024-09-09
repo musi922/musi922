@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Musime!
-  
+
  ## 🚀 About Me
 -  I'm a junior developer with a passion for building robust and scalable web applications using the latest technologies and best practices. My primary focus is on creating efficient and user-friendly experiences that 
    meet the needs of clients and users alike.
