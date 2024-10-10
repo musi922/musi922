@@ -11,7 +11,8 @@
 ## 🌱 Currently Learning
 - Advanced React concepts
 - State management with Redux
-- Backend basics with Node.js
+- Backend with Node.js
+- Nest js
 
   ## 💞️ Reach out
 -  If you have any exciting projects or collaborations in mind, feel free to reach out!
