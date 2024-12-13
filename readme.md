@@ -5,10 +5,11 @@
    meet the needs of clients and users alike.
 
 ## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript,Typescript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, slack
+- **Frontend:** SAP UI5, SAP Fiori, React, JavaScript,Typescript, HTML, CSS,  WDIO Testing,
+- **Tools:** Business Application Studio(BAS), BTP, Git, GitHub, VS Code, npm, slack
 
 ## 🌱 Currently Learning
+- Advanced SAP UI5
 - Advanced React concepts
 - State management with Redux
 - Backend with Node.js
