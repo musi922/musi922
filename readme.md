@@ -5,8 +5,8 @@
    meet the needs of clients and users alike.
 
 ## 🛠️ Technologies & Tools
-- **Frontend and Backend:** SAP UI5, SAP Fiori,CAP, React,Node js, Nest js,Next js, JavaScript,Typescript, HTML, CSS,  WDIO Testing,Selenium Testing
-- **Tools:** Business Application Studio(BAS), BTP, Git, GitHub, VS Code, npm, slack
+- **Frontend and Backend:** SAP UI5, SAP Fiori,SAP S/4HANA,CAP,OData Services, React,Node js, Nest js,Next js, JavaScript,Typescript, HTML, CSS,  WDIO Testing,Selenium Testing
+- **Tools:** Business Application Studio(BAS),SAP Cloud Connector, BTP,REST APIs, Git, GitHub, VS Code, npm, slack, Jira
 
 ## 🌱 Currently Learning
 - Advanced SAP UI5
