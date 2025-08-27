@@ -5,11 +5,11 @@
    meet the needs of clients and users alike.
 
 ## 🛠️ Technologies & Tools
-- **Frontend and Backend:** SAP ABAP, SAP RAP, SAP CAP, SAP CPI, SAP SAC, SAP UI5, SAP Fiori,SAP S/4HANA,OData Services, React,Node js, Nest js,Next js, JavaScript,Typescript, HTML, CSS,jest, WDIO Testing,Selenium Testing
+- **Frontend and Backend:** SAP ABAP, SAP RAP, SAP CAP, SAP CPI, SAP SAC, SAP UI5, SAP Fiori,SAP S/4HANA,OData Services, React, React Native,Node js, Nest js,Next js, JavaScript,Typescript, HTML, CSS, Bootstrap,jest, WDIO Testing,Selenium Testing
 - **Tools:** Business Application Studio(BAS),SAP Cloud Connector, BTP,REST APIs, Git, GitHub, VS Code, npm, slack, Jira
 
 ## 🌱 Currently Learning
-- Advanced SAP CPI
+- Advanced SAP SAC
 - Advanced React concepts
 - State management with Redux
 - Backend with Node.js
