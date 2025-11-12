@@ -11,7 +11,7 @@
 ## 🌱 Currently Learning
 - Advanced React concepts
 - State management with Redux
-- Nest js
+- Nest JS
 
   ## 💞️ Reach out
 -  If you have any exciting projects or collaborations in mind, feel free to reach out!
