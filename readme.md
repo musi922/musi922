@@ -1,27 +1,54 @@
-- 👋 Hi, I’m Richard Musime!
+## 👋 Hi, I’m Richard Musime
 
- ## 🚀 About Me
--  I'm a sap developer with a passion for building robust and scalable web applications using the latest technologies and best practices. My primary focus is on creating efficient and user-friendly experiences that 
-   meet the needs of clients and users alike.
+I work in two worlds.
 
-## 🛠️ Technologies & Tools
-- **Frontend and Backend:** SAP CAP, SAP UI5, SAP RAP, SAP CPI, SAP SAC, SAP Fiori, SAP S/4HANA,OData Services, DEVOPs, React, React Native,Node js, Nest js,Next js, JavaScript,Typescript, HTML, CSS, Bootstrap,jest, WDIO Testing,Selenium Testing
-- **Tools:** Business Application Studio(BAS),SAP Cloud Connector, BTP,REST APIs, Git, GitHub, VS Code, npm, slack, Jira
+⚡ Modern Web — React, React Native, Next.js, Node.js, Nest.js, JavaScript, TypeScript  
+🏢 Enterprise — SAP CAP, SAP UI5, SAP Fiori, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP S/4HANA, OData Services  
 
-## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Nest js
+Most developers pick a side.  
+I decided to understand both.
 
-  ## 💞️ Reach out
--  If you have any exciting projects or collaborations in mind, feel free to reach out!
-- 📫 How to reach me: email me at musiric2@gmail.com
+---
 
-  
-<img src="https://komarev.com/ghpvc/?username=Richard&style=flat-square&color=blue" alt=""/>
+### 🧠 What I Actually Do
 
+- Build modern frontends that people enjoy using  
+- Design backend APIs that don’t collapse under pressure  
+- Integrate enterprise SAP systems with clean web apps  
+- Work with business logic that actually runs companies  
+- Fix bugs that “were not there yesterday”  
 
+Yes, I understand `useEffect`.  
+Yes, I also understand OData.
 
+---
 
+### 🛠 Tech I Work With
 
+**Frontend:**  
+React, React Native, Next.js, SAP UI5, SAP Fiori, HTML, CSS, Bootstrap  
 
+**Backend:**  
+Node.js, Nest.js, SAP CAP, REST APIs, OData Services  
+
+**Enterprise & SAP Ecosystem:**  
+SAP S/4HANA, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP Cloud Connector  
+
+**Testing:**  
+Jest, WDIO, Selenium  
+
+**Tools & DevOps:**  
+Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma  
+
+---
+
+### 🌱 Currently Improving
+
+- Advanced React patterns  
+- System design  
+- Clean Architecture  
+- Writing code I won’t hate in 6 months  
+
+---
+
+📫 richardmusime6@gmail.com
