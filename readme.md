@@ -18,9 +18,6 @@ I decided to understand both.
 - Work with business logic that actually runs companies  
 - Fix bugs that “were not there yesterday”  
 
-Yes, I understand `useEffect`.  
-Yes, I also understand OData.
-
 ---
 
 ### 🛠 Tech I Work With
