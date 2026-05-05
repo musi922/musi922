@@ -35,7 +35,7 @@ SAP S/4HANA, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP Cloud Connector
 Jest, WDIO, Selenium  
 
 **Tools & DevOps:**  
-Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma  
+Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma, Docmost 
 
 ---
 
