@@ -10,7 +10,7 @@ I decided to understand both.
 
 ---
 
-### 🧠 What I Actually Do
+### What I Actually Do
 
 - Build modern frontends that people enjoy using  
 - Design backend APIs that don’t collapse under pressure  
@@ -39,13 +39,10 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 
 ---
 
-### 🌱 Currently Improving
+### Currently Improving
 
 - Advanced React patterns  
-- System design  
-- Clean Architecture  
-- Writing code I won’t hate in 6 months  
-
+- Flexible Programming Model
 ---
 
 📫 richardmusime6@gmail.com
