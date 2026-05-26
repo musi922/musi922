@@ -15,7 +15,6 @@ I decided to understand both.
 - Build modern frontends that people enjoy using  
 - Design backend APIs that don’t collapse under pressure  
 - Integrate enterprise SAP systems with clean web apps  
-- Work with business logic that actually runs companies  
 - Fix bugs that “were not there yesterday”  
 
 ---
