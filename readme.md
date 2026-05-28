@@ -40,7 +40,7 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 
 ### Currently Improving
 
-- Advanced React patterns  
+- ABAP 
 - Flexible Programming Model
 ---
 
