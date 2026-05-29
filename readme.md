@@ -42,6 +42,7 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 
 - ABAP 
 - Flexible Programming Model
+- DEVOPS
 ---
 
 📫 richardmusime6@gmail.com
