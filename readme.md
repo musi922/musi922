@@ -41,7 +41,6 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 ### Currently Improving
 
 - ABAP 
-- Flexible Programming Model
 - DEVOPS
 ---
 
