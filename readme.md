@@ -31,7 +31,7 @@ Node.js, Nest.js, SAP CAP, REST APIs, OData Services
 SAP S/4HANA, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP Cloud Connector  
 
 **Testing:**  
-Jest, WDIO, Selenium  
+Jest, WDIO, Selenium, Kiwi
 
 **Tools & DevOps:**  
 Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma, Docmost, Confluence, Trello
