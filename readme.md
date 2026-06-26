@@ -39,7 +39,7 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 
 ### Currently Improving
 
-- ABAP 
+- SAP ABAP 
 - DEVOPS
 ---
 
