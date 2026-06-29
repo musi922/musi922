@@ -40,7 +40,6 @@ Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notio
 ### Currently Improving
 
 - SAP ABAP 
-- DEVOPS
 ---
 
 📫 richardmusime6@gmail.com
