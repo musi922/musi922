@@ -2,7 +2,7 @@
 
 I work in two worlds.
 
-⚡ Modern Web : React, React Native, Next.js, Node.js, Nest.js, JavaScript, TypeScript,Spec Driven Development  
+⚡ Modern Web : React, React Native, Next.js, Node.js, Nest.js, JavaScript, TypeScript
 🏢 Enterprise : SAP CAP, SAP UI5, SAP Fiori, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP S/4HANA, SAP FPM, OData Services
 
 Most developers pick a side.  
@@ -33,7 +33,7 @@ SAP S/4HANA, SAP RAP, SAP CPI, SAP SAC, SAP BTP, SAP Cloud Connector
 Jest, WDIO, Selenium, Kiwi
 
 **Tools & DevOps:**  
-Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma, Docmost, Confluence, Trello,OpenSpec
+Git, GitHub, Business Application Studio (BAS), VS Code, npm, Jira, Slack, Notion, Figma, Docmost, Confluence, Trello, Open-Spec
 
 ---
 
